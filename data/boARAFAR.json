@@ -1,1 +1,11 @@
-
+{
+    "id": 4,
+    "name": "boARAFAR",
+    "author": "Boofer",
+    "creators": [Boofer,Fizzy],
+    "verifier": "Fizzy",
+    "verification": "https://www.youtube.com/watch?v=6ylFtK8lY-g",
+    "percentToQualify": "100",
+    "records": [
+    ]
+}
