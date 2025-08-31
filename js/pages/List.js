@@ -96,6 +96,9 @@ export default {
                     </template>
                     <h3>Submission Requirements</h3>
                     <p>
+                        A level needs to be at least Hard Demon difficulty or above to be placed
+                    </p>
+                    <p>
                         Achieved the record without using hacks
                     </p>
                     <p>
