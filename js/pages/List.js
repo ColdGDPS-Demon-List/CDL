@@ -111,6 +111,9 @@ export default {
                         Records must have a green cheat indicator shown throughout the entire video, and on the end screen. This does not apply if you are not using any mod menus
                     </p>
                     <p>
+                        Physics bypass is not allowed
+                    </p>
+                    <p>
                         The recording must have a previous attempt and entire death animation shown before the completion, unless the completion is on the first attempt.
                     </p>
                     <p>
