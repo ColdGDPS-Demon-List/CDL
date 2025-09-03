@@ -12,14 +12,14 @@
             "link": "https://www.youtube.com/watch?v=nGKkjgnowFY",
             "percent": 100,
             "hz": 120,
-            "mobile": "True"
+            "mobile": "true"
         },
         {
             "user": "epicbroom",
             "link": "https://www.youtube.com/watch?v=S62KPp35qaE",
             "percent": 100,
-            "hz": 120
-            "mobile": "True"
+            "hz": 120,
+            "mobile": "true"
         },
         {
             "user": "Kyy",
