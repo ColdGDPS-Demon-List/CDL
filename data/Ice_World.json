@@ -1,0 +1,17 @@
+{
+    "id": 35,
+    "name": "Ice World",
+    "author": "Glazay",
+    "creators": [""],
+    "verifier": "Glazay",
+    "verification": "https://www.youtube.com/watch?v=HdwDfAt63tg",
+    "percentToQualify": "100",
+    "records": [
+        {
+            "user": "TheRealBlazerGD",
+            "link": "https://www.youtube.com/watch?v=nGKkjgnowFY",
+            "percent": 100,
+            "hz": 120
+        }
+    ]
+}
