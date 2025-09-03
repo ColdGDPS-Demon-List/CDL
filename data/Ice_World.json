@@ -11,13 +11,15 @@
             "user": "TheRealBlazerGD",
             "link": "https://www.youtube.com/watch?v=nGKkjgnowFY",
             "percent": 100,
-            "hz": 120
+            "hz": 120,
+            "mobile": "True"
         },
         {
             "user": "epicbroom",
             "link": "https://www.youtube.com/watch?v=S62KPp35qaE",
             "percent": 100,
             "hz": 120
+            "mobile": "True"
         },
         {
             "user": "Kyy",
