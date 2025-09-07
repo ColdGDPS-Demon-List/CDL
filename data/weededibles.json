@@ -7,5 +7,12 @@
     "verification": "https://youtu.be/UMv4jItlF2M?si=_CLiPGBMw9rXhqpF",
     "percentToQualify": "100",
     "records": [
+                {
+            "user": "Fizzy",
+            "link": "https://youtu.be/BF0Gknphzgc",
+            "percent": 100,
+            "hz": 120,
+            "mobile": "true"
+        }
     ]
 }
