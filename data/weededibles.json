@@ -12,7 +12,12 @@
             "link": "https://youtu.be/BF0Gknphzgc",
             "percent": 100,
             "hz": 120,
-            "mobile": "true"
+        },
+        {
+            "user": "Fizzy",
+            "link": "https://youtu.be/BF0Gknphzgc",
+            "percent": 100,
+            "hz": 120,
         }
     ]
 }
