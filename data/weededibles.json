@@ -11,13 +11,13 @@
             "user": "Fizzy",
             "link": "https://youtu.be/BF0Gknphzgc",
             "percent": 100,
-            "hz": 120,
+            "hz": 240,
         },
         {
-            "user": "Fizzy",
-            "link": "https://youtu.be/BF0Gknphzgc",
+            "user": "Stretcho",
+            "link": "https://www.youtube.com/watch?v=va1PIAio1i8&t=1073s",
             "percent": 100,
-            "hz": 120,
+            "hz": 60,
         }
     ]
 }
