@@ -38,6 +38,12 @@
             "link": "https://www.youtube.com/watch?v=KTs-KUShNPU&t=660s",
             "percent": 100,
             "hz": 60
+        },
+        {
+            "user": "MangoSherbet",
+            "link": "https://www.youtube.com/watch?v=LDZND3Mkcbs",
+            "percent": 100,
+            "hz": 165
         }
     ]
 }
