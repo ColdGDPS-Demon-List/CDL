@@ -95,7 +95,7 @@ export default {
                         </ol>
                     </template>
                     <h3>Submission Requirements</h3>
-                    <a href="https://docs.google.com/document/d/15j40rtzJ7sR3guWWObnAjoBcJQNCRcWfUOvZTUCq5Hk">
+                    <p>
                         A level has to be atleast Hard Demon difficulty to be placed
                     </p>
                     <p>
