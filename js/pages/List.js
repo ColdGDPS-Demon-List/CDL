@@ -95,9 +95,9 @@ export default {
                         </ol>
                     </template>
                     <h3>Submission Requirements</h3>
-                    <p>
+                    <a>
                         A level needs to be rated at least Hard Demon difficulty or above to get placed
-                    </p>
+                    <a href="https://docs.google.com/document/d/15j40rtzJ7sR3guWWObnAjoBcJQNCRcWfUOvZTUCq5Hk">
                     <p>
                         Achieved the record without using hacks
                     </p>
