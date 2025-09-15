@@ -96,38 +96,8 @@ export default {
                     </template>
                     <h3>Submission Requirements</h3>
                     <a>
-                        A level needs to be rated at least Hard Demon difficulty or above to get placed
+                        CLICK HERE 4 RULES
                     <a href="https://docs.google.com/document/d/15j40rtzJ7sR3guWWObnAjoBcJQNCRcWfUOvZTUCq5Hk">
-                    <p>
-                        Achieved the record without using hacks
-                    </p>
-                    <p>
-                        Achieved the record on the level that is listed on the site - please check the level ID before you submit a record
-                    </p>
-                    <p>
-                        Have either source audio or clicks/taps in the video. Edited audio only does not count
-                    </p>
-                    <p>
-                        Records must have a green cheat indicator shown throughout the entire video, and on the end screen. This does not apply if you are not using any mod menus
-                    </p>
-                    <p>
-                        Physics bypass is not allowed
-                    </p>
-                    <p>
-                        The recording must have a previous attempt and entire death animation shown before the completion, unless the completion is on the first attempt.
-                    </p>
-                    <p>
-                        The recording must also show the end screen of the level in order for it to be eligible.
-                    </p>
-                    <p>
-                        Do not use secret routes or bug routes
-                    </p>
-                    <p>
-                        Do not use easy modes, only a record of the unmodified level qualifies
-                    </p>
-                    <p>
-                        Once a level falls into the Legacy List, we will not accept records for it anymore.
-                    </p>
                 </div>
             </div>
         </main>
