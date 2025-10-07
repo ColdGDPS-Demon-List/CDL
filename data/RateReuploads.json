@@ -36,6 +36,12 @@
             "link": "https://www.youtube.com/watch?v=HKBmSkdFWwE",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "Exodus",
+            "link": "https://www.youtube.com/watch?v=g7awc9SZPZU",
+            "percent": 100,
+            "hz": 120
         }
     ]
 }
