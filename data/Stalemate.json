@@ -7,5 +7,11 @@
     "verification": "https://www.youtube.com/watch?v=dfa-YD8Rb1E&t=691s",
     "percentToQualify": "100",
     "records": [
+        {
+            "user": "viridian",
+            "link": "https://www.youtube.com/watch?v=DjF7I08gnCY",
+            "percent": 100,
+            "hz": 60
+        }
     ]
 }
