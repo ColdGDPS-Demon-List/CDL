@@ -3,5 +3,9 @@
         "role": "owner",
         "name": "Kyy",
         "link": "https://www.youtube.com/@kyylicious"
+    },
+    {
+        "role": "admin",
+        "name": "nia",
     }
 ]
